@@ -4,6 +4,7 @@ The Travel Time Simulator looks quite similar to applications like Uber in terms
 - Mode of transport/ the speed
 - How heavy the traffic is (which might be light, moderate, or heavy)
 - The number of traffic signals in the path
+
 The user will be required to set these parameters himself. The data structures used in this simulator are dictionaries (to store the destinations) as well as other data structures that the BFS algorithm uses such as queues. 
 Here are a few pictures of what the simulator looks like. We have used Tkinter to make the dropdown menu that allows the user to make the following selections. A Tkinter canvas is used to display the map. 
 Here are some images to help you get an idea of how the program works. 
